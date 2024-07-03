@@ -143,4 +143,7 @@ Full-size Onscreen Keyboard than can be dragged around the screen.
 
 ## OSK Customize
 
+- glib-compile-resources 가 필요
+  sudo apt install libglib2.0-dev 안에 있음
+
 - [Key values for keyboard events](https://developer.mozilla.org/en-US/docs/Web/API/UI_Events/Keyboard_event_key_values)
